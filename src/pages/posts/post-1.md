@@ -8,8 +8,8 @@ image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro Logo.'
 tags: ["astro", "blogging","learning in public"]
-
 ---
+
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey a I build a new website.
 
