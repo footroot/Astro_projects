@@ -13,6 +13,7 @@
     "@astrojs/check": "^0.5.10",
     "@astrojs/rss": "^4.0.6",
     "astro": "^4.7.1",
+    "cyan-chaos": "file:",
     "typescript": "^5.4.5"
   }
 }
